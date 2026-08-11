@@ -1,5 +1,6 @@
 const students = require("../data/students");
 const { notFound } = require("../middleware/errorHandler");
+const validateStudent = require("../middleware/validateStudent");
 
 //get all the students 
 
