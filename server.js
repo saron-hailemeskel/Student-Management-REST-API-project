@@ -24,5 +24,6 @@ app.use(errorHandler);
 
 // 5. Start server
 app.listen(PORT, () => {
+    
     console.log(`Server running on http://localhost:${PORT}`);
 });

@@ -1,0 +1,23 @@
+{
+  "name": "student-management-rest-api-project",
+  "version": "1.0.0",
+  "description": "Build a Student Management REST API using Node.js and Express",
+  "homepage": "https://github.com/saron-hailemeskel/Student-Management-REST-API-project#readme",
+  "bugs": {
+    "url": "https://github.com/saron-hailemeskel/Student-Management-REST-API-project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saron-hailemeskel/Student-Management-REST-API-project.git"
+  },
+  "license": "ISC",
+  "author": "saron hailemeskel",
+  "type": "commonjs",
+  "main": " server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
