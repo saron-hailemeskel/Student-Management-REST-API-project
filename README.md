@@ -1,5 +1,5 @@
 # Student-Management-REST-API-project
-# Student Management REST API
+
 
 A RESTful Student Management API built with **Node.js** and **Express.js**. This project demonstrates backend fundamentals including REST API design, routing, controllers, middleware, CRUD operations, query parameters, error handling, and data validation.
 
