@@ -117,9 +117,9 @@ http://localhost:3000/api/students
 
 | Method | Endpoint                                | Description                  |
 | ------ | --------------------------------------- | ---------------------------- |
-| GET    | `/api/students/statistics/total`        | Get total number of students |
-| GET    | `/api/students/statistics/course-count` | Get student count by course  |
-| GET    | `/api/students/statistics/average-gpa`  | Get average GPA              |
+| GET    | `/api/students/total_students`          | Get total number of students |
+| GET    | `/api/students/students_in_each_course` | Get student count by course  |
+| GET    | `/api/students/avg`                     | Get average GPA              |
 
 
 ```
