@@ -124,6 +124,29 @@ http://localhost:3000/api/students
 
 ```
 ```
+## 📚 API Documentation
+
+This project uses Swagger/OpenAPI for API documentation and testing.
+
+### Swagger UI
+
+After starting the server, open:
+
+**http://localhost:3000/api-docs**
+
+From the Swagger UI, you can:
+
+- View all available API endpoints
+- See request parameters and request bodies
+- See expected responses
+- Test the API endpoints directly
+
+### How to access Swagger
+
+1. Clone the repository
+2. Install dependencies
+
+
 ## 🧩 Middleware
 
 ### Logger
